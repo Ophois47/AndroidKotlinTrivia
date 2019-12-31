@@ -1,0 +1,40 @@
+<!--
+  ~ Copyright 2018, The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Trivia Administered by Dave</string>
+    <string name="game_over">We All Knew You Would Fail</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Trivia Administered by Dave</string>
+    <string name="about_text">\nThis is the About section. It will be about…what the game, is…about…\n\n</string>
+    <string name="rules_text">\nOkay. Here\'s the deal. No, I am not a troll. Yes, I do  want you to answer three questions for me. Why? Well, because for your own good. That\'s why. You\'re already a better person than you were at the beginning of this sentence.\n\nSelect what you believe to be the answer from the options given. Each time you get an answer correct, I will advance you to the next question.\n\nIf you get the answer wrong, you end!\n\nI mean your game ends. You can return to the title screen using up or back from within the game screen, and this will also end your game.\n\n</string>
+    <string name="rules">Decree</string>
+    <string name="about">Info</string>
+    <string name="trivia_hint">Cheat?</string>
+    <string name="title_android_trivia_question">Android Quiz (%1$d/%2$d)</string>
+    <string name="title_about_trivia">Info</string>
+    <string name="title_trivia_rules">Rules of Play</string>
+    <string name="share_success_text">I mastered the ANDROID QUIZ OF DAVID with %1$d/%2$d correct answers!\n\nhttps://drive.google.com/open?id=1-2EJz9Z45lSNXDKkQEKlS3cH75MltE5s</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Hmm. Yes.</string>
+    <string name="share">Gloat</string>
+    <string name="sharing_not_available">Gloating Not Available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
